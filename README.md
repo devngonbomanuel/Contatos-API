@@ -2,6 +2,6 @@
 - Uma API para gerenciamento de contatos.
 
 # Tecnologias
-- .NET 8
+- .NET 6
 - C#
 - ASP.NET Core
