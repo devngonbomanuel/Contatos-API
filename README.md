@@ -1,5 +1,5 @@
 ## API Simples
-- Um modelo simples para API
+- Uma API para gerenciamento de contatos.
 
 # Tecnologias
 - .NET 8
