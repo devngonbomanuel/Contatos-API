@@ -1,4 +1,4 @@
-## API Simples
+## API de Gestão de Contatos
 - Uma API para gerenciamento de contatos.
 
 # Tecnologias
